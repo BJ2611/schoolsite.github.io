@@ -2,3 +2,18 @@
     text-align:start ;
     
 }
+.scroll{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: 2px;
+    color: red;
+    text-decoration: underline;
+    /* text-shadow: 2px 2px ; */
+   text-transform: uppercase;
+   text-rendering: optimizeSpeed;
+   text-decoration-style: wavy;
+   text-emphasis: initial;
+   text-decoration-color:black;
+   
+}
