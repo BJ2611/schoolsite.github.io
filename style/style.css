@@ -8,6 +8,12 @@
      text-align: justify;
      
  }
+ .author{
+     font-style: italic;
+     font-size: 14px;
+     color:blueviolet;
+     font-family: 'The Nautigal', cursive;
+ }
  .scroll{
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
