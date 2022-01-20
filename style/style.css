@@ -1,3 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities; 
+
+
 .paragraphs{
     display: flex;
      justify-content: center;

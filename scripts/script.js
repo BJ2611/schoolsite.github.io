@@ -22,5 +22,5 @@ function detectIE() {
     }
 };
 if(detectIE() == true){
-    alert("Browser Not Supported, Some Features Might not work well properly")
+    alert("Browser Is Not Supported, some features might not work well properly")
 }
